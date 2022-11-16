@@ -12,7 +12,7 @@ public class LoginVerify extends HttpServlet {
 
 
     public LoginVerify(){
-        System.out.println("Verify");
+        System.out.println("Verify ");
 
     }
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException{
